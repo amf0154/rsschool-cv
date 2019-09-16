@@ -1,0 +1,13 @@
+html {
+  font-family: Helvetica, Avernir, "Times New Roman", Times, serif;
+  background: url('../assets/images/background.png')
+}
+a{
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
+h2{
+  text-align: center;
+  color: gray;
+}
