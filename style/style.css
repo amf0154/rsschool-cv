@@ -11,3 +11,57 @@ h2{
   text-align: center;
   color: gray;
 }
+li {
+  list-style-type: square; 
+}
+li:nth-of-type(odd) { 
+  list-style-type: circle; 
+}
+.main {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 15px 20px 0; 
+}
+section{
+  margin: 10px 0;
+  padding: 15px;
+  background: white;
+  border-radius: 10px;
+  border: 1px gray solid;
+}
+.main > h1{
+  color: gray;
+  margin: 0 auto;
+  text-align: center;
+}
+#intro{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: aliceblue;
+}
+#intro > img {
+  height: 140px;
+  border-radius: 50%;
+  margin-left: 50px;
+}
+#intro>article{
+  margin-top: 15px;
+  font-size: 20px;
+}
+article{
+  margin-left: 10px;
+}
+article p {
+  text-align: left;
+}
+article p:first-letter {
+  padding-left: 15px;
+}
+#skill > p{
+  color: gray;
+  font-weight: bold;
+  text-align: center;
+}
+#contacts article p{
+  text-align: center;
+}
