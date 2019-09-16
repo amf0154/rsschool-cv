@@ -65,3 +65,15 @@ article p:first-letter {
 #contacts article p{
   text-align: center;
 }
+footer {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 10px 0px;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+}
+footer > p {
+  margin: 0;
+  text-align: center;
+}
