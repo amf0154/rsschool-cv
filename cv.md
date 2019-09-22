@@ -3,10 +3,10 @@
 ## Personal information
 ![Personal photo](http://bykovsky.dev/img/2017_005650.png)
 
-**Name:** Gleb Bykovsky 
-**Address:** Belarus, Gomel 
-**Email:** gleb@sgsrv.ru  
-**Phone:** +3752-5678-5432 
+Name: Gleb Bykovsky 
+Address: Belarus, Gomel 
+Email: gleb@sgsrv.ru  
+Phone: +3752-5678-5432 
 
 ## About me
 I started learning to code at 24 years. I've learned Pascal, Java and Php in university. My diploma project had been writen with php, it was a flower shop project for costumer from Russia. After university i was working as a system administrator for about 2 years. But this work didn't get me enough pleasure, it was interesting when i was writting different shell scrypts and was busy with other work related with programming only. Meanwhile I started learning MEAN stack, i wrote some simple application after it and got one important thing - programming is really interesting and cool thing, and i really wanna dedicate myself for it.
@@ -51,9 +51,9 @@ static async regUser(ctx) {
 ```
 
 ## Education
-| University                              | Faculty                             | Specialty   |
-|-----------------------------------------|-------------------------------------|-------------|
-| Francisk Skorina Gomel State University | Faculty of Information technologies | IT Engineer |
+ - Gomel State Machine-Building College (2008 - 2012)
+ - Gomel State University Francisk Skorina (2012 - 2017)
+ Specialty: IT Engineer
 
 ## Skills
  - HTML, CSS/SCSS;
